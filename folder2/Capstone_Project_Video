@@ -1,1 +1,10 @@
+### **E-Commerce Automated Testing Framework**
 
+[**Watch E-Commerce Automated Testing Framework Demo**] - Click the Link given below .
+(https://drive.google.com/file/d/1vEX3_231xV7vLU1fInG3H1W0G_7jfuzL/view?usp=sharing)
+
+This video provides a complete overview and demonstration of the E-Commerce Automated Testing Framework.
+It walks through the end-to-end execution of automated regression test cases using Python, Selenium WebDriver,
+and PyTest on the e-commerce demo application. Additionally, it highlights key framework capabilities, 
+including dynamic wait handling, external test data management, and the automated generation of detailed
+HTML reports alongside step-by-step failure screenshots.
